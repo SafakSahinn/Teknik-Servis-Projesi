@@ -1,0 +1,267 @@
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe.config
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Form1.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe.licenses
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CopyComplete
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.pdb
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunListesi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniUrun.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKategori.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniKategori.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmIstatistik.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmMarkalar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariListesi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariIller.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariEkle.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmDepartman.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniDepartman.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmPersonel.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKurlar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYoutube.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmNotlar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaListesi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunSatis.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmSatislar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaDetaylar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunDetayListesi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmQRKod.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaListesi.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalem.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalemleri.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmHakkimizda.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Map.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraMap.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Map.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraMap.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmHarita.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.PivotGrid.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Export.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Extensions.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPivotGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.dll
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.PivotGrid.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPivotGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.xml
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmRapor.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Raporlar.XtraReport1.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmAnaSayfa.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalemPopup.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmRehber.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmGelenMesajlar.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmMail.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.FrmLogin.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmBarkod.resources
+C:\Users\Şafak Şahin\Desktop\TeknikServis\TeknikServis\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe.config
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Map.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.PivotGrid.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Export.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Extensions.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraMap.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPivotGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\EntityFramework.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.DataAccess.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Map.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.PivotGrid.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraMap.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPivotGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\EntityFramework.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Form1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmAnaSayfa.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaDetaylar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaListesi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunDetayListesi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmBarkod.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariEkle.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariIller.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmCariListesi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmDepartman.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalem.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalemleri.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaKalemPopup.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmFaturaListesi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmHakkimizda.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmHarita.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmIstatistik.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKategori.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKurlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmMarkalar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmNotlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmPersonel.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmQRKod.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmRapor.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmSatislar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunListesi.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunSatis.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniDepartman.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniKategori.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniUrun.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYoutube.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.FrmLogin.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Raporlar.XtraReport1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmGelenMesajlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmMail.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.İletişim.FrmRehber.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe.licenses
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CopyComplete
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\Teknik Servis Projesi\TeknikServis\TeknikServis\obj\Debug\TeknikServis.pdb
